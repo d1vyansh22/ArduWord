@@ -44,7 +44,3 @@ The Arduino-based Wordle game with LED feedback is a sophisticated project that 
 ## Conclusion
 
 The Wordle Game Emulator project demonstrates the integration of embedded systems and gaming by replicating the popular Wordle puzzle on Arduino hardware. It provides valuable learning in hardware interfacing, Arduino programming, and system design, offering a versatile platform for education and entertainment.
-
-**Download README.md**: Save this content as `README.md` in your project root to provide clear context and setup guidance for **ArduWord**.
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/59195520/d2a3fbbe-78de-48f2-b96e-46f4d9b12c7c/EDW_PROJECT-1.pdf
