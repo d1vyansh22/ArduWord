@@ -1,6 +1,6 @@
-# ArduWord
+# Worduino
 
-**ArduWord** is an Arduino-based Wordle game emulator that seamlessly integrates hardware and software components to deliver an immersive and entertaining word-guessing experience enhanced by dynamic LED visual feedback.
+**Worduino** is an Arduino-based Wordle game emulator that seamlessly integrates hardware and software components to deliver an immersive and entertaining word-guessing experience enhanced by dynamic LED visual feedback.
 
 ## Introduction
 
